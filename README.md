@@ -71,7 +71,7 @@
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vishnukarthik29&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=vishnukarthik29&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
