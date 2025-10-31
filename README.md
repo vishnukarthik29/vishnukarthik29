@@ -59,11 +59,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishnukarthik29&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=vishnukarthik29&show_icons=true&theme=vue-dark" alt="GitHub stats" />
 <br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnukarthik29&theme=tokyonight" alt="GitHub streak" />
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=vishnukarthik29&theme=vue-dark" alt="GitHub Streak" /></a>
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukarthik29&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukarthik29&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
 
 ---
