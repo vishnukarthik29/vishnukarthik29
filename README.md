@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Vishnu Karthik</h1>
+<h1 align="center">👋 Hi, I'm VishnuKarthik</h1>
 <h3 align="center">💻 Web Developer | Data Science & AI/ML Enthusiast | Crafting Scalable, Interactive & Efficient Web Experiences</h3>
 
 ---
